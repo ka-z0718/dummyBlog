@@ -3,6 +3,7 @@
 Dummy Blogは[DummyJSON](https://dummyjson.com/)を使ってブログサービスっぽく作成したサイトです。
 
 閲覧は以下のページから
+https://ka-z0718.github.io/dummyBlog/
 
 ## 目的
 
